@@ -1,7 +1,7 @@
 ### Installation
 
 ```sh
-git clone https://github.com/gopete/react-redmine.git
+git clone https://github.com/mickuki112/square-game.git
 cd square-game
 npm install
 npm start
