@@ -1,9 +1,10 @@
 import React from "react";
-import styles from './Heder.module.css'
+import styles from './Header.module.css'
 
-const Heder=()=>(
-    <div className={styles.heder}>
+const Header=()=>(
+    <div className={styles.header}>
+        Square Game
     </div>
 )
 
-export default Heder;
+export default Header;
